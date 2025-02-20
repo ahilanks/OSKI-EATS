@@ -2,6 +2,8 @@
 
 Improving access to dorm food. One meal at a time.
 
+Oski Eats is an easy and improved way for Berkeley students to access the Berkeley Dining Hall Menus. It is now live on the app store-- check it out at the link above!
+
 Contact:
 ahilanks@berkeley.edu
 
