@@ -1,4 +1,4 @@
-# [OSKI EATS][https://apps.apple.com/us/app/oski-eats/id6741076699]
+# [OSKI EATS](https://apps.apple.com/us/app/oski-eats/id6741076699)
 
 Improving access to dorm food. One meal at a time.
 
