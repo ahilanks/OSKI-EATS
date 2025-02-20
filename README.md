@@ -1,4 +1,6 @@
-Making access to dorm food better. One meal at a time.
+# [OSKI EATS][https://apps.apple.com/us/app/oski-eats/id6741076699]
+
+Improving access to dorm food. One meal at a time.
 
 Contact:
 ahilanks@berkeley.edu
