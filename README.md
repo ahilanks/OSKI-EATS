@@ -1,8 +1,6 @@
 # [OSKI EATS](https://apps.apple.com/us/app/oski-eats/id6741076699)
 
-Improving access to dorm food. One meal at a time.
-
-Live on the app store-- check it out at the link above!
+200+ active users in 1 month. Live on the app store-- check it out at the link above!
 
 Contact:
 ahilanks@berkeley.edu
