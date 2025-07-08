@@ -1,6 +1,6 @@
 # [OSKI EATS](https://apps.apple.com/us/app/oski-eats/id6741076699)
 
-200+ active users in 1 month. Live on the app store-- check it out at the link above!
+500+ active users in 2 months. Live on the app store-- check it out at the link above!
 
 Contact:
 ahilanks@berkeley.edu
