@@ -6,4 +6,4 @@ Contact:
 ahilanks@berkeley.edu
 
 Privacy Policy:
-"This app does not collect store sensitive information from users. Any data used within the app is solely for functional purposes. By using this app, you agree to these terms."
+"Oski Eats may share anonymized, aggregated usage insights with partners to support research and improve dining services. No personally identifiable information is shared."
